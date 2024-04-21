@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin715&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin715&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kelvin_vv)](https://leetcode.com/JacobLinCool?site=cn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool?site=cn)
