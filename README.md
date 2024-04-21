@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on A*STAR, Singapore
+- 🔭 I’m currently working at A*STAR, Singapore
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me:  yangzhihan@mail.sdu.edu.cn
