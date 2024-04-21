@@ -8,3 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  yangzhihan@mail.sdu.edu.cn
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Trying to figure out lol
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
