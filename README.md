@@ -1,8 +1,7 @@
 ### Hola, I'm Kelvin Yeung! 👋
 
 - 🔭 I’m currently working at A*STAR, Singapore
-- 🌱 I’m currently learning AI
-- 📫 How to reach me:  yangzhihan@mail.sdu.edu.cn
+- 📫 How to reach me:  zhihanyeung@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to figure out lol
 
